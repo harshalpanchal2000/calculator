@@ -15,7 +15,7 @@ pip install calculator
 ```python
 from calculator import summa
 
-result = sum(1, 2)
+result = summa(1, 2)
 print(result)
 ```
 
