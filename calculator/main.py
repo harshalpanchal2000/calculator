@@ -1,3 +1,3 @@
-def sum(1,2)
-  a=1+2
+def sum(x,y)
+  a=x+y
   return a
