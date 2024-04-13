@@ -1,12 +1,11 @@
-markdown
-Copy code
-# sumfunction
 
-`sumfunction` is a simple Python library that provides a single function to calculate the sum of two numbers.
+# Calculator
+
+`calculator` is a simple Python library that provides a single function to calculate the sum of two numbers.
 
 ## Installation
 
-You can install `sumfunction` using pip:
+You can install `calculator` using pip:
 ```
 pip install calculator
 ```
